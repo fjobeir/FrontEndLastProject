@@ -1,0 +1,43 @@
+/* #myDIV {
+    width: 100%;
+    padding: 50px 0;
+    text-align: center;
+    background-color: lightblue;
+    margin-top: 20px;
+} */
+/* .text{
+    position: absolute;
+    background-color: green;
+} */
+.commentsPlace{
+    margin-top: 15px;
+    border: 1px solid gray;
+    padding: 15px;
+    padding-top: 5px;
+    /* margin-left: 350px; */
+    /* border: 1px solid #dedede; */
+    background-color: #ced4da;
+    border-radius: 5px;
+    padding: 5px;
+    position: relative;
+}
+/* .reactionPlace {
+    
+} */
+#CommentslogoImage {
+    height: 80px;
+    width: 75px; 
+    border-radius: 50%;
+    padding: 0;
+    margin: 0;
+}
+.commentName {
+    margin-left: 100px;
+    margin-top: 20px;
+    position: absolute;
+}
+.Commentcontent {
+    margin: 20px;
+    word-wrap: break-word !important;
+    word-break: break-all;
+}

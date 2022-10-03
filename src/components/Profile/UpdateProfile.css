@@ -1,0 +1,56 @@
+
+.profileTxt{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 1px solid rgb(204, 199, 199);
+    padding: 15px; 
+}
+#btnBox{
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
+.postsDel{
+    border-top: 0px;
+    border: 1px solid rgb(204, 199, 199); 
+    padding: 15px;
+}
+/* #profileBox{
+    
+} */
+.myinfo{
+    border-left: 1px solid rgb(204, 199, 199);
+    border-right: 1px solid rgb(204, 199, 199); 
+    padding: 15px;
+}
+
+#info{
+    border-radius: 5px;
+    background-color: #d4edfb;
+    margin-bottom: 15px;
+
+}
+#postsInfo{
+    border-radius: 5px;
+    background-color: #d4edfb;
+    margin-bottom: 10px;
+}
+#h3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+/* #hidden{
+
+} */
+@media only screen and (max-width:1000px){
+    #sidebarProfile{
+        display: none;
+    }
+
+}
+@media only screen and (min-width:1000px){
+    #hidden{
+        display: none;
+    }  
+}

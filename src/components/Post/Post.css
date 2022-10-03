@@ -1,0 +1,46 @@
+.postPplace{
+    padding: 15px;
+    border: 1px solid #dedede;
+    background-color: #f1f1f1;
+    padding: 10px; 
+    margin-right: 0px;
+}
+.postPplace:hover{
+    background-color: rgba(168, 168, 168, 0.596);
+}
+#logoImage {
+    /* height: 80px; */
+    width: 60px; 
+    
+    border-radius: 50%;
+    padding: 0;
+    margin: 0;
+}
+.name {
+    margin-left: 100px;
+    margin-top: 20px;
+    position: absolute;
+}
+.content {
+    margin: 20px;
+    word-wrap: break-word;
+}
+.reactionPlace {
+    padding: 10px;
+        display: flex;
+        padding-bottom: 0;
+}
+.likeIcon {
+    padding-right: 25px;
+}
+#comments {
+    width: 100%;
+    padding: 0px;
+    padding-top: 10px;
+    /* text-align: center; */
+    /* background-color: lightblue; */
+    /* position: relative; */
+}
+#likebuttom{
+    
+}

@@ -1,0 +1,39 @@
+#homeBox{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.sidebar{
+    /* width: 30%; */
+    border-radius: 1px solid gray;
+    margin-right: 0;
+}
+.homeTextPlace{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid gray;
+}
+
+.allPostsPlacee{
+    border: 1px solid gray;
+}
+
+#h3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+@media only screen and (max-width:1000px){
+    #soso{
+        display: none;
+    }
+
+}
+@media only screen and (min-width:1000px){
+    #hid{
+        display: none;
+    }  
+}

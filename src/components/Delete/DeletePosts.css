@@ -1,0 +1,26 @@
+#deletePlace{
+    padding-top: 10px;
+}
+
+.postsDel{
+
+}
+
+
+#deleteButton{
+    background-color: #ef233c;
+    border-color:#ef233c ;
+}
+
+#del{
+    border: 1px solid rgb(204, 199, 199);
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    
+}
+#h4{
+    word-break: break-all;
+}

@@ -1,0 +1,12 @@
+.linkboxx {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.sideIconn{
+    margin-right: 10px;
+
+}
+
+

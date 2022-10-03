@@ -1,0 +1,18 @@
+#SignUp {
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px,
+    rgba(0, 0, 0, 0.3) 0px 30px 60px -30px,
+    rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#logoImg {
+    margin: 15px;
+    padding-left: 80px;
+    height: 90px !important;
+}
+.optionButtons {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 6%;
+}
